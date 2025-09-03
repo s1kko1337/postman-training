@@ -1,12 +1,13 @@
-# AgentApp QA
+# postman-training
 
-## Автоматизированное тестирование API страхования ОСАГО
+## Тестовое задание для сайта https://partner.agentapp.ru/ по созданию договора страхования.  
 
 [![Postman](https://img.shields.io/badge/-Postman-24292f?style=for-the-badge&logo=Postman&logoColor=ff6c36)](https://www.postman.com/)
 [![JSON Schema](https://img.shields.io/badge/-JSON_Schema-24292f?style=for-the-badge&logo=json&logoColor=white)](https://json-schema.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=f7df1e)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Коллекция Postman для автоматизированного тестирования API AgentApp B2B по созданию и расчету полиса ОСАГО. Включает полную валидацию схем ответов с использованием JSON Schema и автоматическое управление переменными окружения.
+Основная задача - создать цепочку запросов и передавать данные между ними.
+Включает полную валидацию схем ответов с использованием JSON Schema и автоматическое управление переменными окружения.
 
 ### Особенности коллекции:
 
